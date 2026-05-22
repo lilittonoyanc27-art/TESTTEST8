@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Learning Game",
+  "description": "Interactive Spanish learning app with grammar quiz, reading comprehension (En busca de amigos), dictionary, and instant step-by-step explanations in Armenian and Russian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
